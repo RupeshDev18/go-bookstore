@@ -1,0 +1,23 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+
+# Go build files
+*.test
+*.prof
+*.cover
+*.output
+*.sum
+*.mod
