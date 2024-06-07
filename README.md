@@ -109,6 +109,3 @@ This is a Golang backend API for a simple bookstore application. It includes fun
 3. Make your changes.
 4. Submit a pull request.
 
-## License
-
-This project is licensed under the MIT License.
